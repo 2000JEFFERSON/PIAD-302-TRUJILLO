@@ -1,3 +1,2 @@
 # PIAD-302-TRUJILLO
-# PIAD-302-TRUJILLO
-Trujillo GRados, JEfferson 
+Trujillo Grados, Jefferson 
